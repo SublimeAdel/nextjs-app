@@ -8,4 +8,4 @@ export const lusitana = Lusitana({ subsets: ["latin"], weight: "400" });
 
 export const inter = Inter({ subsets: ["latin"] });
 
-export const poppins = Poppins({ weight: "400" });
+export const poppins = Poppins({ weight: "400", subsets: ["latin"] });
